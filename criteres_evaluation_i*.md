@@ -8,7 +8,7 @@
 
 	* Une tâche liée a une ressource seulement comprends la ressource dans son intitulé
 
-	* Respect des règles de représentation ( sens des flèches et différence but/tâche/ressources cohérentes avec la problématique).
+
 
 * Responsabilités, nommages
 
@@ -16,9 +16,17 @@
 
 	* Les tâches et buts sont décrits par un verbe.
 
-	* Les tâches sont atomiques et isolées, elles sont indépendante et couvrent chacune un sous-aspect défini sdu problème.
+	* Les tâches sont atomiques et isolées, elles sont indépendante et couvrent chacune un sous-aspect défini du problème.
 
-* Homogéneité
+
+* Homogéneité et respect des règles I*
 
 	* Les nommages et les intitulés de tâches ont une forme commune, soit à l'infinitif soit conjuguées.
 
+	* Respect des règles de représentation ( sens des flèches et différence but/tâche/ressources cohérentes avec la problématique).
+
+	* Pas d'acteurs autres que le concerné dans le diagramme de raisonnement, les productions d'autres acteurs apparaissent en ressources
+
+	* Les buts non fonctionnels du diagramme de dépendance sont reliés aux acteurs et non aux tâches
+
+	
