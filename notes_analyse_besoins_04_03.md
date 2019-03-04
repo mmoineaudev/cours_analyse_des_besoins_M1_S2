@@ -1,3 +1,10 @@
+```
+lundi 4 mars 2019 :
+
+Présentations orales sur sujet imposés
+
+```
+
 # Adobe XD
 
 Un logiciel vectoriel qui permet de faire des protototypes d'application web ou mobile
@@ -6,14 +13,13 @@ Ce logiel est voué a permettre un gain de productivité dans la production d'in
 
 Avantages  : 
 
-	* Complet
+* Complet
 
-	* gratuit en version d'essai
+* en version d'essai
 
-	* facilité d'utilisation
+* facilité d'utilisation
 
-	* gestion de droits sur la maquette pour projet en groupe
-
+* gestion de droits sur la maquette pour projet en groupe
 
 # Persona :
 
