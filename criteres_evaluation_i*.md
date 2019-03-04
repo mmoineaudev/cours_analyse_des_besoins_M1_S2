@@ -12,11 +12,13 @@
 
 * Responsabilités, nommages
 
-Les tâches et buts sont décrits par un verbe.
+	* Les acteurs sont clairements définis
 
-Les tâches sont atomiques et isolées, elles sont indépendante et couvrent chacune un sous-aspect défini sdu problème.
+	* Les tâches et buts sont décrits par un verbe.
+
+	* Les tâches sont atomiques et isolées, elles sont indépendante et couvrent chacune un sous-aspect défini sdu problème.
 
 * Homogéneité
 
-les nommages et les intitulés de tâches ont une forme commune, soit à l'infinitif soit conjuguées.
+	* Les nommages et les intitulés de tâches ont une forme commune, soit à l'infinitif soit conjuguées.
 
