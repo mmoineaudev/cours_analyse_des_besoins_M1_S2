@@ -8,7 +8,7 @@
 
 	* Une tâche liée a une ressource seulement comprends la ressource dans son intitulé
 
-
+	* Les intitulés de tâches sont clairs et concis
 
 * Responsabilités, nommages
 
@@ -18,6 +18,7 @@
 
 	* Les tâches sont atomiques et isolées, elles sont indépendante et couvrent chacune un sous-aspect défini du problème.
 
+	* Les nommages sont homogènes entre les différents graphiques de la solution (un acteur qui produit une "donnée", un autre l'utilise sous la même appellation)
 
 * Homogéneité et respect des règles I*
 
