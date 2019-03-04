@@ -1,3 +1,5 @@
+lien du cours : https://lms.univ-cotedazur.fr/course/view.php?id=10846&section=1
+
 # Critères d'évaluation d'un diagramme I*
 
 * Clarté
